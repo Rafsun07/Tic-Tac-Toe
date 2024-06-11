@@ -21,17 +21,17 @@ This project is a simple implementation of the classic Tic-Tac-Toe game, allowin
 2. **Run the game:**
 
     ```
-    python tic-tac-toe.py
+    python game.py
     ```
 
 ## Usage
 
 1. **Start the game:**
 
-    Run the `tic-tac-toe.py` script to start the tic-tac-toe game.
+    Run the `game.py` script to start the tic-tac-toe game.
 
     ```
-    python tic-tac-toe.py
+    python game.py
     ```
 
 2. **Input Prompts:**
